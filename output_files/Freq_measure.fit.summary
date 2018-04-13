@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Mar 28 11:26:44 2018
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Standard Edition
+Revision Name : Freq_measure
+Top-level Entity Name : TOP
+Family : Cyclone IV E
+Device : EP4CE6F17C8
+Timing Models : Final
+Total logic elements : 2,876 / 6,272 ( 46 % )
+    Total combinational functions : 1,477 / 6,272 ( 24 % )
+    Dedicated logic registers : 2,414 / 6,272 ( 38 % )
+Total registers : 2414
+Total pins : 6 / 180 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 268,288 / 276,480 ( 97 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )

@@ -1,0 +1,5 @@
+
+State Machine - |TOP|Time_measure:Time_measure_inst2|i
+Name i.10 
+i.01 0 
+i.10 1 
